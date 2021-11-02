@@ -1,0 +1,2 @@
+# personal_auto_test
+个人学习的自动化测试代码记录（包括request库自定义框架和selenium用例）
